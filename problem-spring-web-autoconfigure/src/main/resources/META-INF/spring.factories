@@ -1,0 +1,2 @@
+org.springframework.security.config.annotation.web.configurers.AbstractHttpConfigurer=\
+  org.zalando.problem.spring.web.autoconfigure.security.ProblemHttpConfigurer
